@@ -1,0 +1,19 @@
+{
+    "name": "liuj22/github",
+    "authors": [
+        {
+            "name": "liuj22",
+            "email": "liuj22@mingyuanyun.com"
+        }
+    ],
+    "require": {
+        "php": "5.5.*",
+        "ext-memcache": "*"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
